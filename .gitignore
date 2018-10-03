@@ -1,0 +1,11 @@
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules
+
+public/
+*.lock
