@@ -1,3 +1,5 @@
-### Numie Site
+`yarn`
 
-#Deploy: `gcloud preview app deploy ./app.yaml --project numieco -v 0-9-0`
+`yarn dev`
+
+rejoice.
